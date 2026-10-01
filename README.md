@@ -1,5 +1,5 @@
  
-MakeMyTrip AI Trip Assistant — Product Case Document
+#MakeMyTrip AI Trip Assistant — Product Case Document
 When leadership told me they were cautious about building an AI Trip Assistant because our old recommendation engine was biased, I totally got it. It favoured the expensive, heavily-reviewed hotspots. It was basically ignoring what users actually asked for. It failed. We need better. Before writing a single line of production code, I decided to build a working prototype, test it against our specific biases, and figure out exactly how we’d sell it. This document is the story of how I built that feature end-to-end.
 Part 1 — Research, Persona & Feature PRD
 Before doing anything, I needed to know who we are actually building this for. I sat down and mapped out two proto-personas. Both of this personas needs something completely different from travel.
